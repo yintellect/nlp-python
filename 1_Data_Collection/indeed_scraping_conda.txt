@@ -1,0 +1,2 @@
+conda create -n nlp python=3.5 requests BeautifulSoup4
+source activate nlp
