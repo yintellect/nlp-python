@@ -8,7 +8,7 @@ This repository stores my exploration on automation related to text data with Py
 
 - Text Data Collection
   - Web Scraping
-  - AP
+  - API
 - Pre-precessing methods
 - Latent Dirichlet Allocation (LDA) for Topic Modeling
 
